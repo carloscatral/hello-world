@@ -3,7 +3,7 @@ tutorial git
 esto es una prueba
 
 otra prueba
-En primer lugar consultar el fichero de alertas de Oracle
+En primer lugar 
 ```bash
 fsfsdfsd
 
